@@ -61,18 +61,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rfs85&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rfs85&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rfs85&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rfs85&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
-### ✍️ GitHub History
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rfs85&theme=zenburn)
-
 ## Projects
 Here are some of my notable projects:
 
@@ -159,17 +147,16 @@ Feel free to explore these projects and provide any feedback or suggestions.
 | Protocol    | Port | Documention   |
 | ------- | --- | ------------ |
 | FTP   | 21  | [FTP Petetration Testing](https://vcta-dcv-certification.certs-study.com/) |
-| SSH   | 22  | [FTP Petetration Testing](https://vcta-dcv-certification.certs-study.com/) |
-| Telnet   | 23  | [FTP Petetration Testing](https://vcta-dcv-certification.certs-study.com/) |
-| SMTP   | 25  | [FTP Petetration Testing](https://vcta-dcv-certification.certs-study.com/) |
-| HTTP   | 80  | [FTP Petetration Testing](https://vcta-dcv-certification.certs-study.com/) |
-| POP3   | 110 | [FTP Petetration Testing](https://vcta-dcv-certification.certs-study.com/) |
-| NetBIOS   | 139  | [FTP Petetration Testing](https://vcta-dcv-certification.certs-study.com/) |
-| SNMP   | 161  | [FTP Petetration Testing](https://vcta-dcv-certification.certs-study.com/) |
-| HTTP/SSL/TLS   | 443  | [FTP Petetration Testing](https://vcta-dcv-certification.certs-study.com/) |
-| MySQL   | 3306  | [FTP Petetration Testing](https://vcta-dcv-certification.certs-study.com/) |
-| RDP   | 3386  | [FTP Petetration Testing](https://vcta-dcv-certification.certs-study.com/) |
-| MSSQL   | 1443  | [FTP Petetration Testing](https://vcta-dcv-certification.certs-study.com/) |
+| SSH   | 22  | [SSH Petetration Testing](https://vcta-dcv-certification.certs-study.com/) |
+| Telnet   | 23  | [Telnet Petetration Testing](https://vcta-dcv-certification.certs-study.com/) |
+| SMTP   | 25  | [SMTP Petetration Testing](https://vcta-dcv-certification.certs-study.com/) |
+| HTTP   | 80  | [HTTP Petetration Testing](https://vcta-dcv-certification.certs-study.com/) |
+| POP3   | 110 | [POP# Petetration Testing](https://vcta-dcv-certification.certs-study.com/) |
+| NetBIOS   | 139  | [NetBIOS Petetration Testing](https://vcta-dcv-certification.certs-study.com/) |
+| SNMP   | 161  | [SNMP Petetration Testing](https://vcta-dcv-certification.certs-study.com/) |
+| MySQL   | 3306  | [MySQL Petetration Testing](https://vcta-dcv-certification.certs-study.com/) |
+| RDP   | 3386  | [RDP Petetration Testing](https://vcta-dcv-certification.certs-study.com/) |
+| MSSQL   | 1443  | [MSSQL Petetration Testing](https://vcta-dcv-certification.certs-study.com/) |
 
 
 
