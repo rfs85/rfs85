@@ -66,14 +66,15 @@ Here are some of my notable projects:
 
 | Name    | Description | Link     |
 | ------- | --- | ------------ |
-| PopLabSec    | Description  | [PopLabSec](https://github.com/username/project1)    |
-| AD Attacks   | Description  | [AD Attacks](https://github.com/username/project2) |
-| Offensive Wireless   | Description  | [Offensive Wireless](https://github.com/username/project3)       |
-| IoT Hacking 101   | Description  | [IoT Hacking 101](https://github.com/username/project3)       |
-| TelcoSec   | Description  | [TelcoSec](https://github.com/username/project3)       |
-| PopLAb Linux   | Description  | [PopLAb Linux](https://github.com/username/project3)       |
-| PopDocs   | Description  | [PopDocs](https://github.com/username/project3)       |
+| PopLabSec    | Description  | [PopLabSec](https://www.poplabsec.com/)    |
+| AD Attacks   | Description  | [AD Attacks](https://www.ad-attacks.com/) |
+| Offensive Wireless   | Description  | [Offensive Wireless](https://www.offensive-wireless.com/)       |
+| IoT Hacking 101   | Description  | [IoT Hacking 101](https://www.iothacking101.com/)       |
+| TelcoSec   | Description  | [TelcoSec](https://www.telco-sec.com/)       |
+| PopLAb Linux   | Description  | [PopLAb Linux](hhttps://www.poplablinux.com/)       |
+| PopDocs   | Description  | [PopDocs](https://popdocs.net/)       |
 | Car Hacking 101   | Description  | Cars       |
+| Certs Study  | Description  | [Certs Study](https://www.certs-study.com/)       |
 
 Feel free to explore these projects and provide any feedback or suggestions.
 
@@ -119,4 +120,11 @@ Feel free to explore these projects and provide any feedback or suggestions.
 | CPTS | HackTheBox |  [CPTS Exam Guide](https://cpts-certification.certs-study.com/) |
 
 
+## RFS LABs
+
+| Topic    | Description | URL   |
+| ------- | --- | ------------ |
+| Web Pentesting   | Local LAB to test web security techniques.  | [Web Pentesting ](https://ejpt-certification.certs-study.com/) |
+| Network Pentesting   | Local LAB to test Network security techniques.  | [Network Pentesting](https://ejpt-certification.certs-study.com/) |
+| Windows AD Pentesting   | Local LAB to test Network security techniques.  | [Windows AD Pentesting](https://ejpt-certification.certs-study.com/) |
 
