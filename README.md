@@ -114,49 +114,9 @@ Feel free to explore these projects and provide any feedback or suggestions.
 | ------- | --- | ------------ |
 | eJPT   | INE  | [eJPT Study Guide](https://ejpt-certification.certs-study.com/) |
 | eCPPTv2 | INE | [eCPPTv2 Study Guide](https://ecpptv2-certification.certs-study.com/) |
-| eCPTx | INE | [eCPTx Study Guide](https://ecptx-certification.certs-study.com/) |
-| eWPT | INE | [eWPT Study Guide](https://ewpt-certification.certs-study.com/) |
 | CRTP | AlteredSecurity | [CRTP Exam Guide](https://crtp-certification.certs-study.com/) |
-| CRTE | AlteredSecurity | [CRTE Exam Guide](https://crte-certification.certs-study.com/) |
-| CRTM | AlteredSecurity | [CRTM Exam Guide](https://crtm-certification.certs-study.com/) |
 | CESP | AlteredSecurity | [CESP Exam Guide](https://cesp-certification.certs-study.com/) |
 | CPTS | HackTheBox |  [CPTS Exam Guide](https://cpts-certification.certs-study.com/) |
-| CBBH | HackTheBox |  [CBBH Exam Guide](https://cbbh-certification.certs-study.com/) |
-| CRTO | ZeroPoint Security  | [CRTO Exam-Guide](https://crto-certification.certs-study.com/) |
-| OSCP | Offensive Security  | [OSCP Exam Guide 2023](https://oscp-certification.certs-study.com/) |
-| OSEP | Offensive Security  | [OSEP Exam Guide 2023](https://osep-certification.certs-study.com/) |
-| OSED | Offensive Security  | [OSED Exam Guide 2023](https://osed-certification.certs-study.com/) |
-
-
-
-## Linux Certifications Guides
-
-| Certification    | Company | Documention   |
-| ------- | --- | ------------ |
-| LPIC1   | Linux Professional Institute  | [LPIC1 Study Guide](https://ejpt-certification.certs-study.com/) |
-
-## Virtualization Certifications Guides
-
-| Certification    | Company | Documention   |
-| ------- | --- | ------------ |
-| VCTA-DCV   | VMWare  | [VCTA-DCV Study Guide](https://vcta-dcv-certification.certs-study.com/) |
-
-
-## Hacking Network Protocols
-
-| Protocol    | Port | Documention   |
-| ------- | --- | ------------ |
-| FTP   | 21  | [FTP Petetration Testing](https://vcta-dcv-certification.certs-study.com/) |
-| SSH   | 22  | [SSH Petetration Testing](https://vcta-dcv-certification.certs-study.com/) |
-| Telnet   | 23  | [Telnet Petetration Testing](https://vcta-dcv-certification.certs-study.com/) |
-| SMTP   | 25  | [SMTP Petetration Testing](https://vcta-dcv-certification.certs-study.com/) |
-| HTTP   | 80  | [HTTP Petetration Testing](https://vcta-dcv-certification.certs-study.com/) |
-| POP3   | 110 | [POP# Petetration Testing](https://vcta-dcv-certification.certs-study.com/) |
-| NetBIOS   | 139  | [NetBIOS Petetration Testing](https://vcta-dcv-certification.certs-study.com/) |
-| SNMP   | 161  | [SNMP Petetration Testing](https://vcta-dcv-certification.certs-study.com/) |
-| MySQL   | 3306  | [MySQL Petetration Testing](https://vcta-dcv-certification.certs-study.com/) |
-| RDP   | 3386  | [RDP Petetration Testing](https://vcta-dcv-certification.certs-study.com/) |
-| MSSQL   | 1443  | [MSSQL Petetration Testing](https://vcta-dcv-certification.certs-study.com/) |
 
 
 
