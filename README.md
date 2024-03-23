@@ -48,7 +48,8 @@
 
 # 💻 Tech Stack Clouds:
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 # 💻 Tech Stack Coding:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -66,15 +67,49 @@ Here are some of my notable projects:
 
 | Name    | Description | Link     |
 | ------- | --- | ------------ |
-| PopLabSec    | Description  | [PopLabSec](https://www.poplabsec.com/)    |
-| AD Attacks   | Description  | [AD Attacks](https://www.ad-attacks.com/) |
-| Offensive Wireless   | Description  | [Offensive Wireless](https://www.offensive-wireless.com/)       |
-| IoT Hacking 101   | Description  | [IoT Hacking 101](https://www.iothacking101.com/)       |
-| TelcoSec   | Description  | [TelcoSec](https://www.telco-sec.com/)       |
-| PopLAb Linux   | Description  | [PopLAb Linux](hhttps://www.poplablinux.com/)       |
-| PopDocs   | Description  | [PopDocs](https://popdocs.net/)       |
+| PopLabSec    | Description  |https://www.poplabsec.com/   |
+| AD Attacks   | Description  | https://www.ad-attacks.com/ |
+| Offensive Wireless   | Description  |https://www.offensive-wireless.com/      |
+| IoT Hacking 101   | Description  | https://www.iothacking101.com/     |
+| TelcoSec   | Description  | https://www.telco-sec.com/      |
+| PopLAb Linux   | Description  | https://www.poplablinux.com/       |
+| PopDocs   | Description  | https://popdocs.net/       |
 | Car Hacking 101   | Description  | Cars       |
-| Certs Study  | Description  | [Certs Study](https://www.certs-study.com/)       |
+| Certs Study  | Description  | https://www.certs-study.com/       |
+
+
+
+## Published Articles
+- [Red Team Tools](https://github.com/PopLabSec/Red-Team-Tools)
+- [Active Directory Penetration Testing](https://github.com/PopLabSec/Active-Directory-Penetration-Testing)
+- [Internet Security Documentation](https://github.com/PopLabSec/Internet-Security-Documentation)
+- [APIs Penetration Testing](https://github.com/PopLabSec/APIs-Penetration-Testing)
+- [Web Applications Penetration Testing](https://github.com/PopLabSec/Web-Applications-Penetration-Testing)
+- [RFS Ethical Hacking](https://github.com/PopLabSec/RFS-Ethical-Hacking)
+- [Networking Penetration Testing](https://github.com/PopLabSec/Networking-Penetration-Testing)
+- [Penetration Testing Tools](https://github.com/PopLabSec/Penetration-Testing-Tools)
+
+
+## Security Certifications Guides
+
+| Certification    | Company | Documention   |
+| ------- | --- | ------------ |
+| eJPT   | INE  | [eJPT Study Guide](https://ejpt-certification.certs-study.com/) |
+| eCPPTv2 | INE | [eCPPTv2 Study Guide](https://ecpptv2-certification.certs-study.com/) |
+| CRTP | AlteredSecurity | [CRTP Exam Guide](https://crtp-certification.certs-study.com/) |
+| LinuxAD | AlteredSecurity | [LinuxAD Guide](https://crtp-certification.certs-study.com/) |
+| CESP | AlteredSecurity | [CESP Exam Guide](https://cesp-certification.certs-study.com/) |
+| CPTS | HackTheBox |  [CPTS Exam Guide](https://cpts-certification.certs-study.com/) |
+
+
+## RFS LABs
+
+| Topic    | Description | URL   |
+| ------- | --- | ------------ |
+| Web Pentesting   | Local LAB to test web security techniques.  | [Web Pentesting ](https://ejpt-certification.certs-study.com/) |
+| Network Pentesting   | Local LAB to test Network security techniques.  | [Network Pentesting](https://ejpt-certification.certs-study.com/) |
+| Windows AD Pentesting   | Local LAB to test Network security techniques.  | [Windows AD Pentesting](https://ejpt-certification.certs-study.com/) |
+
 
 Feel free to explore these projects and provide any feedback or suggestions.
 
@@ -98,33 +133,3 @@ Feel free to explore these projects and provide any feedback or suggestions.
 [![](https://visitcount.itsvg.in/api?id=rfs85&icon=0&color=0)](https://visitcount.itsvg.in)
 
  
-## Published Articles
-- [Red Team Tools](https://github.com/PopLabSec/Red-Team-Tools)
-- [Active Directory Penetration Testing](https://github.com/PopLabSec/Active-Directory-Penetration-Testing)
-- [Internet Security Documentation](https://github.com/PopLabSec/Internet-Security-Documentation)
-- [APIs Penetration Testing](https://github.com/PopLabSec/APIs-Penetration-Testing)
-- [Web Applications Penetration Testing](https://github.com/PopLabSec/Web-Applications-Penetration-Testing)
-- [RFS Ethical Hacking](https://github.com/PopLabSec/RFS-Ethical-Hacking)
-- [Networking Penetration Testing](https://github.com/PopLabSec/Networking-Penetration-Testing)
-- [Penetration Testing Tools](https://github.com/PopLabSec/Penetration-Testing-Tools)
-
-
-## Security Certifications Guides
-
-| Certification    | Company | Documention   |
-| ------- | --- | ------------ |
-| eJPT   | INE  | [eJPT Study Guide](https://ejpt-certification.certs-study.com/) |
-| eCPPTv2 | INE | [eCPPTv2 Study Guide](https://ecpptv2-certification.certs-study.com/) |
-| CRTP | AlteredSecurity | [CRTP Exam Guide](https://crtp-certification.certs-study.com/) |
-| CESP | AlteredSecurity | [CESP Exam Guide](https://cesp-certification.certs-study.com/) |
-| CPTS | HackTheBox |  [CPTS Exam Guide](https://cpts-certification.certs-study.com/) |
-
-
-## RFS LABs
-
-| Topic    | Description | URL   |
-| ------- | --- | ------------ |
-| Web Pentesting   | Local LAB to test web security techniques.  | [Web Pentesting ](https://ejpt-certification.certs-study.com/) |
-| Network Pentesting   | Local LAB to test Network security techniques.  | [Network Pentesting](https://ejpt-certification.certs-study.com/) |
-| Windows AD Pentesting   | Local LAB to test Network security techniques.  | [Windows AD Pentesting](https://ejpt-certification.certs-study.com/) |
-
