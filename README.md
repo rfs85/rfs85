@@ -74,7 +74,7 @@ Here are some of my notable projects:
 | Azure Sec  | Blog about Azure Penetration Testing    | https://www.azure-sec.com/     |
 | Certs Study  | Blog about Cyber Security Certifications    | https://www.certs-study.com/       |
 | PopWebSec | Blog about Web Applications Penetration Testing     |   https://www.popwebsec.com/   |
-| RedFlipper | FlipperZero firmware for Red Teams     |   https://www.popwebsec.com/   |
+| RedFlipper | FlipperZero firmware for Red Teams     |   https://www.redflipper.com/  |
 
 
 
@@ -86,5 +86,11 @@ Here are some of my notable projects:
 | Network Pentesting   | Local LAB to test Network security techniques.  | [Network Pentesting](#) |
 | Windows AD Pentesting   | Local LAB to test Network security techniques.  | [Windows AD Pentesting](#) |
 
+## Internet Jumps
 
-
+| Name    | Type | Status     |
+| ------- | --- | ------------ |
+| LAN Managment | Domestic  | Check  |
+| LAN Managment | Corporate  | Check  |
+| Circuits | Domestic  | Check  |
+| Circuits | Corporate  | Check  |
