@@ -94,3 +94,6 @@ Here are some of my notable projects:
 | LAN Managment | Corporate  | Check  |
 | Circuits | Domestic  | Check  |
 | Circuits | Corporate  | Check  |
+
+
+Pwning CS and PS Since 1996!
