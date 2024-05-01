@@ -67,15 +67,15 @@ Here are some of my notable projects:
 
 | Name    | Description | Link     |
 | ------- | --- | ------------ |
-| PopLabSec    | Description  |https://www.poplabsec.com/   |
-| AD Attacks   | Description  | https://www.ad-attacks.com/ |
-| Offensive Wireless   | Description  |https://www.offensive-wireless.com/      |
-| IoT Hacking 101   | Description  | https://www.iothacking101.com/     |
-| TelcoSec   | Description  | https://www.telco-sec.com/      |
-| PopLAb Linux   | Description  | https://www.poplablinux.com/       |
-| PopDocs   | Description  | https://popdocs.net/       |
-| Car Hacking 101   | Description  | Cars       |
-| Certs Study  | Description  | https://www.certs-study.com/       |
+| PopLabSec    | Blog about Network Penetration Testing  |https://www.poplabsec.com/   |
+| AD Attacks   | Blog about Active Directory Penetration Testing    | https://www.ad-attacks.com/ |
+| Offensive Wireless   | Blog about Wireless Penetration Testing    |https://www.offensive-wireless.com/      |
+| IoT Hacking 101   | Blog about IoT Penetration Testing    | https://www.iothacking101.com/     |
+| TelcoSec   | Blog about Telecom Penetration Testing    | https://www.telco-sec.com/      |
+| PopLab Linux   | Blog about Linux Penetration Testing    | https://www.poplablinux.com/       |
+| PopDocs   | Internet Documentation  | https://popdocs.net/       |
+| Azure Sec  | Blog about Azure Penetration Testing    | https://www.azure-sec.com/     |
+| Certs Study  | Blog about Cyber Security Certifications    | https://www.certs-study.com/       |
 
 
 
