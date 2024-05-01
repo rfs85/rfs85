@@ -90,10 +90,10 @@ Here are some of my notable projects:
 
 | Name    | Type | Status     |
 | ------- | --- | ------------ |
-| LAN Managment | Domestic  | Check  |
-| LAN Managment | Corporate  | Check  |
-| Circuits | Domestic  | Check  |
-| Circuits | Corporate  | Check  |
+| LAN Managment | Domestic  | :white_check_mark:  |
+| LAN Managment | Corporate  | :white_check_mark:  |
+| Circuits | Domestic  | :white_check_mark:  |
+| Circuits | Corporate  | :white_check_mark:  |
 
 
 Pwning CS and PS Since 1996!
