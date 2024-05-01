@@ -35,14 +35,10 @@
   ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 
-# 💻 Tech Stack Networking:
+# 💻 Tech Manufacturers:
 - CISCO
 - Huawei
 - Alcatel
-
-# 💻 Tech Stack Networking:
-- Alcatel
-- Huawei
 - Nokia
 - Ericsson
 
@@ -91,8 +87,3 @@ Here are some of my notable projects:
 
 
 
-
----
-[![](https://visitcount.itsvg.in/api?id=rfs85&icon=0&color=0)](https://visitcount.itsvg.in)
-
- 
