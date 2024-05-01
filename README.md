@@ -80,42 +80,16 @@ Here are some of my notable projects:
 | RedFlipper | FlipperZero firmware for Red Teams     |   https://www.popwebsec.com/   |
 
 
-## Published Articles
-- [Red Team Tools](https://github.com/PopLabSec/Red-Team-Tools)
-- [Active Directory Penetration Testing](https://github.com/PopLabSec/Active-Directory-Penetration-Testing)
-- [Internet Security Documentation](https://github.com/PopLabSec/Internet-Security-Documentation)
-- [APIs Penetration Testing](https://github.com/PopLabSec/APIs-Penetration-Testing)
-- [Web Applications Penetration Testing](https://github.com/PopLabSec/Web-Applications-Penetration-Testing)
-- [RFS Ethical Hacking](https://github.com/PopLabSec/RFS-Ethical-Hacking)
-- [Networking Penetration Testing](https://github.com/PopLabSec/Networking-Penetration-Testing)
-- [Penetration Testing Tools](https://github.com/PopLabSec/Penetration-Testing-Tools)
-
 
 ## RFS LABs
 
 | Topic    | Description | URL   |
 | ------- | --- | ------------ |
-| Web Pentesting   | Local LAB to test web security techniques.  | [Web Pentesting ](https://ejpt-certification.certs-study.com/) |
-| Network Pentesting   | Local LAB to test Network security techniques.  | [Network Pentesting](https://ejpt-certification.certs-study.com/) |
-| Windows AD Pentesting   | Local LAB to test Network security techniques.  | [Windows AD Pentesting](https://ejpt-certification.certs-study.com/) |
+| Web Pentesting   | Local LAB to test web security techniques.  | [Web Pentesting ](#) |
+| Network Pentesting   | Local LAB to test Network security techniques.  | [Network Pentesting](#) |
+| Windows AD Pentesting   | Local LAB to test Network security techniques.  | [Windows AD Pentesting](#) |
 
 
-Feel free to explore these projects and provide any feedback or suggestions.
-
-## 🐦 Discord Servers
-<a href="https://discord.gg/H46uHvSZne"><img src="https://discordapp.com/api/guilds/894273981606150224/widget.png?style=banner1" alt="Official Discord Community" target="_blank"></a>
-<a href="https://discord.gg/Sft2dnyj6Z"><img src="https://discordapp.com/api/guilds/880193638414565427/widget.png?style=banner1" alt="Official Discord Community" target="_blank"></a>
-<br>
-<a href="https://discord.gg/vk2JQaneUQ"><img src="https://discordapp.com/api/guilds/1040697202902839317/widget.png?style=banner1" alt="Official Discord Community" target="_blank"></a>
-<a href="https://discord.gg/mJ8Wy8yJEw"><img src="https://discordapp.com/api/guilds/1055301414265569360/widget.png?style=banner1" alt="Official Discord Community" target="_blank"></a>
-<br>
-<a href="https://discord.gg/vk2JQaneUQ"><img src="https://discordapp.com/api/guilds/1040710660620816506/widget.png?style=banner1" alt="Official Discord Community" target="_blank"></a>
-<a href="https://discord.gg/T3NYGA7yFU"><img src="https://discordapp.com/api/guilds/955583027973607515/widget.png?style=banner1" alt="Official Discord Community" target="_blank"></a>
-<br>
-<br>
-<a href="https://discord.gg/mWbjasMncm"><img src="https://discordapp.com/api/guilds/1046826679038918798/widget.png?style=banner1" alt="Official Discord Community" target="_blank"></a>
-<a href="https://discord.gg/5q8areH9"><img src="https://discordapp.com/api/guilds/1062340993279598664/widget.png?style=banner1" alt="Car Hacking 101" target="_blank"></a>
-<br>
 
 
 ---
