@@ -101,10 +101,11 @@ Here are some of my notable projects:
 | ------- |  ------------ |
 | Fanouts | :white_check_mark:  |
 | Agregation | :white_check_mark:  |
-| Core / Backboane | :white_check_mark:  |
+| Core / Backbone | :white_check_mark:  |
 | IP Transit |  :white_check_mark:  |
 
 ## Signal transmission
+Analog and Digital
 
 ### Copper
 | Name    | Type | Status     |
@@ -113,5 +114,16 @@ Here are some of my notable projects:
 | LAN Managment | Twisted Pair  | :white_check_mark:  |
 | Circuits | Domestic  | :white_check_mark:  |
 | Circuits | Corporate  | :white_check_mark:  |
+
+## Signaling Stacks
+Signaling with Aliens :alien:
+
+| Name    |  Status     |
+| ------- |  ------------ |
+| SS7 | :white_check_mark:  |
+| SigTran | :white_check_mark:  |
+| SIP | :white_check_mark:  |
+| Diameter |  :white_check_mark:  |
+
 
 Pwning CS and PS Since 1996!
