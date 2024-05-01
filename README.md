@@ -76,7 +76,8 @@ Here are some of my notable projects:
 | PopDocs   | Internet Documentation  | https://popdocs.net/       |
 | Azure Sec  | Blog about Azure Penetration Testing    | https://www.azure-sec.com/     |
 | Certs Study  | Blog about Cyber Security Certifications    | https://www.certs-study.com/       |
-
+| PopWebSec | Blog about Web Applications Penetration Testing     |   https://www.popwebsec.com/   |
+| RedFlipper | FlipperZero firmware for Red Teams     |   https://www.popwebsec.com/   |
 
 
 ## Published Articles
@@ -88,18 +89,6 @@ Here are some of my notable projects:
 - [RFS Ethical Hacking](https://github.com/PopLabSec/RFS-Ethical-Hacking)
 - [Networking Penetration Testing](https://github.com/PopLabSec/Networking-Penetration-Testing)
 - [Penetration Testing Tools](https://github.com/PopLabSec/Penetration-Testing-Tools)
-
-
-## Security Certifications Guides
-
-| Certification    | Company | Documention   |
-| ------- | --- | ------------ |
-| eJPT   | INE  | [eJPT Study Guide](https://ejpt-certification.certs-study.com/) |
-| eCPPTv2 | INE | [eCPPTv2 Study Guide](https://ecpptv2-certification.certs-study.com/) |
-| CRTP | AlteredSecurity | [CRTP Exam Guide](https://crtp-certification.certs-study.com/) |
-| LinuxAD | AlteredSecurity | [LinuxAD Guide](https://crtp-certification.certs-study.com/) |
-| CESP | AlteredSecurity | [CESP Exam Guide](https://cesp-certification.certs-study.com/) |
-| CPTS | HackTheBox |  [CPTS Exam Guide](https://cpts-certification.certs-study.com/) |
 
 
 ## RFS LABs
