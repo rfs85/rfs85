@@ -69,7 +69,8 @@ Here are some of my notable projects:
 | IoT Hacking 101   | Blog about IoT Penetration Testing    | https://www.iothacking101.com/     |
 | TelcoSec   | Blog about Telecom Penetration Testing    | https://www.telco-sec.com/      |
 | PopLab Linux   | Blog about Linux Penetration Testing    | https://www.poplablinux.com/       |
-| PopDocs   | Internet Documentation  | https://popdocs.net/       |
+| PopWinPWN   | Blog about Windows Penetration Testing    | https://www.popwinpwn.com/       |
+| PopDocs   | Internet Documentation  | https://www.popdocs.net/       |
 | Azure Sec  | Blog about Azure Penetration Testing    | https://www.azure-sec.com/     |
 | Certs Study  | Blog about Cyber Security Certifications    | https://www.certs-study.com/       |
 | PopWebSec | Blog about Web Applications Penetration Testing     |   https://www.popwebsec.com/   |
