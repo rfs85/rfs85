@@ -95,5 +95,23 @@ Here are some of my notable projects:
 | Circuits | Domestic  | :white_check_mark:  |
 | Circuits | Corporate  | :white_check_mark:  |
 
+## ISP Core
+
+| Name    |  Status     |
+| ------- |  ------------ |
+| Fanouts | :white_check_mark:  |
+| Agregation | :white_check_mark:  |
+| Core / Backboane | :white_check_mark:  |
+| IP Transit |  :white_check_mark:  |
+
+## Signal transmission
+
+### Copper
+| Name    | Type | Status     |
+| ------- | --- | ------------ |
+| LAN Managment | Coaxial  | :white_check_mark:  |
+| LAN Managment | Twisted Pair  | :white_check_mark:  |
+| Circuits | Domestic  | :white_check_mark:  |
+| Circuits | Corporate  | :white_check_mark:  |
 
 Pwning CS and PS Since 1996!
