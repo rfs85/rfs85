@@ -18,7 +18,14 @@
 - RF Security
 - Surveillance
 
+## DevSecOps
 
+- DFefect Dojo
+- Harbor
+- Nuclei
+- Trivy
+- Dependency Check
+- 
 
 [![](https://visitcount.itsvg.in/api?id=rfs85&icon=0&color=0)](https://visitcount.itsvg.in)
 ## Hacking Playgrounds
