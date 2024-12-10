@@ -82,55 +82,18 @@ Here are some of my notable projects:
 | Certs Study  | Blog about Cyber Security Certifications    | https://www.certs-study.com/       |
 | PopWebSec | Blog about Web Applications Penetration Testing     |   https://www.popwebsec.com/   |
 | RedFlipper | FlipperZero firmware for Red Teams     |   https://www.redflipper.com/  |
+| SQLMap Generator | FlipperZero firmware for Red Teams     |   https://www.redflipper.com/  |
+| Fuff Generator | FlipperZero firmware for Red Teams     |   https://www.redflipper.com/  |
+| Scapy Generator | FlipperZero firmware for Red Teams     |   https://www.redflipper.com/  |
+| OSI Model Explained | FlipperZero firmware for Red Teams     |   https://www.redflipper.com/  |
+| Nuclei Generator | FlipperZero firmware for Red Teams     |   https://www.redflipper.com/  |
+| DevSecOps Generator | FlipperZero firmware for Red Teams     |   https://www.redflipper.com/  |
+| ADCS Attacks | FlipperZero firmware for Red Teams     |   https://www.redflipper.com/  |
+| Azure Security | FlipperZero firmware for Red Teams     |   https://www.redflipper.com/  |
 
 
 
-## RFS LABs
 
-| Topic    | Description | URL   |
-| ------- | --- | ------------ |
-| Web Pentesting   | Local LAB to test web security techniques.  | [Web Pentesting ](#) |
-| Network Pentesting   | Local LAB to test Network security techniques.  | [Network Pentesting](#) |
-| Windows AD Pentesting   | Local LAB to test Network security techniques.  | [Windows AD Pentesting](#) |
-
-## Internet Jumps
-
-| Name    | Type | Status     |
-| ------- | --- | ------------ |
-| LAN Managment | Domestic  | :white_check_mark:  |
-| LAN Managment | Corporate  | :white_check_mark:  |
-| Circuits | Domestic  | :white_check_mark:  |
-| Circuits | Corporate  | :white_check_mark:  |
-
-## ISP Core
-
-| Name    |  Status     |
-| ------- |  ------------ |
-| Fanouts | :white_check_mark:  |
-| Agregation | :white_check_mark:  |
-| Core / Backbone | :white_check_mark:  |
-| IP Transit |  :white_check_mark:  |
-
-## Signal transmission
-Analog and Digital
-
-### Copper
-| Name    | Type | Status     |
-| ------- | --- | ------------ |
-| LAN Managment | Coaxial  | :white_check_mark:  |
-| LAN Managment | Twisted Pair  | :white_check_mark:  |
-| Circuits | Domestic  | :white_check_mark:  |
-| Circuits | Corporate  | :white_check_mark:  |
-
-## Signaling Stacks
-Signaling with Aliens :alien:
-
-| Name    |  Status     |
-| ------- |  ------------ |
-| SS7 | :white_check_mark:  |
-| SigTran | :white_check_mark:  |
-| SIP | :white_check_mark:  |
-| Diameter |  :white_check_mark:  |
 
 
 Pwning CS and PS Since 1996!
