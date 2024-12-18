@@ -19,7 +19,7 @@
 - Surveillance
 
 ## DevSecOps
-
+(N00b)
 - DFefect Dojo
 - Harbor
 - Nuclei
